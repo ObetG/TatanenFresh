@@ -1,0 +1,57 @@
+name: tanifresh
+description: "Marketplace B2B connecting restaurants with farmers/suppliers"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # UI Components
+  cupertino_icons: ^1.0.6
+  google_fonts: ^6.1.0
+  
+  # State Management
+  provider: ^6.1.1
+  
+  # Network
+  http: ^1.1.2
+  
+  # Local Storage
+  shared_preferences: ^2.2.2
+  
+  # Notifications
+  flutter_local_notifications: ^17.0.0
+  
+  # Utils
+  intl: ^0.19.0
+  url_launcher: ^6.2.4
+  
+  # Charts & Visualization
+  fl_chart: ^0.66.2
+  
+  # Maps (OpenStreetMap - Free)
+  flutter_map: ^6.1.0
+  latlong2: ^0.9.0
+  
+  # Firebase
+  firebase_core: ^2.24.2
+  firebase_database: ^10.4.0
+  firebase_auth: ^4.16.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  
+  # Uncomment to add assets
+  # assets:
+  #   - assets/images/
+  #   - assets/icons/
