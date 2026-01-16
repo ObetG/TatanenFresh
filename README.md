@@ -238,8 +238,4 @@ Total = Subtotal - Diskon + Pajak
 
 Video demo aplikasi dapat diakses langsung dari aplikasi melalui menu "Tentang Aplikasi" di halaman Profil (Client) atau Quick Actions (Admin).
 
-Link YouTube: *Segera hadir*
-
-## 📄 License
-
-MIT License
+Link YouTube: (https://youtu.be/j2TiVELO6L0?si=uxBI43FcC1Fvwdwo)
