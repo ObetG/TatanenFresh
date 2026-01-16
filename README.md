@@ -228,11 +228,11 @@ Total = Subtotal - Diskon + Pajak
 
 **Developer 1:**
 - Nama: Fadhlan Rahman Permana
-- NPM: 152021032
+- NRP: 152021032
 
 **Developer 2:**
 - Nama: Wibi Ataya Sani
-- NPM: 152022063
+- NRP: 152022063
 
 ## 📺 Demo Aplikasi
 
